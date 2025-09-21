@@ -78,7 +78,7 @@ Traditional social media platforms extract value from users' attention and data 
 
 ## Presentation
 
-*[PPT link will be added here]*
+https://docs.google.com/presentation/d/13U9qxR3R5iIV7_3niQpa00SQuVmF4GXr/edit?usp=drive_link&ouid=116448651302795570068&rtpof=true&sd=true
 
 ## Team GOOSE 🦢
 
