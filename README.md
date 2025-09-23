@@ -1,5 +1,7 @@
 # ScrollVibe - Scroll to Earn Social Media Platform
 
+Email: testingtesla7@gmail.com 
+
 ## Project Description
 
 ScrollVibe is a revolutionary social media platform that rewards users for engaging with content. Built on the Cardano blockchain, it combines the addictive nature of short-form video content with a tokenized economy where users earn $SCROLL tokens simply by scrolling through reels and $VIBE tokens for creating and boosting content.
